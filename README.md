@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of Flixster:
 
 <img src='https://user-images.githubusercontent.com/80440872/223243291-d74ca3db-57ae-4376-a94c-9049e8bbc2d4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -36,7 +36,7 @@ GIF created with Kap for macOS
 
 ## Notes
 
-I struggled a great deal with the autolayout features. I am not sure when to use a stack, or to leave the layouts outside of a stack view. The layout was arguably the most difficult aspect of this assignment for me.
+I struggled a great deal with the autolayout features. I am not sure when to use a stack, or to leave the layouts outside of a stack view. The layout was definitely the most difficult aspect of this assignment for me.
 
 ## License
 
